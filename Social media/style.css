@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:wght@400;500;700&family=Poppins:wght@300;400;600;700;800&display=swap');
+
+
+
+.fa-facebook{
+    color:blue;
+}
+
+.fa-pinterest{
+    color:crimson;
+}
+.fa-twitter{
+    color:aqua;
+} 
+.fa-google{
+    color:red;
+}
+a{
+    text-decoration: underline;
+}
+
+.fa-instagram{
+    color:crimson
+}
+
+.box{
+    background-color:grey;
+    padding: 30px 60px;
+}
+
+.box-part{
+    background-color: whitesmoke;
+    margin: 15px;
+    padding: 50px 10px;
+    text-align: center;
+}
